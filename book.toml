@@ -1,0 +1,7 @@
+[book]
+title = "The Story of Experience: Aim, Action, and Being"
+authors = ["iamflipse"]
+description = "Twelve lectures on aim, action, and being. The notebook does not name the speaker."
+
+[build]
+charset = "utf-8"
